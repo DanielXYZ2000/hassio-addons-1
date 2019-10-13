@@ -1,6 +1,6 @@
 # hassio-addons
 
-Repository for hass.io addons.
+Repository for hass.io addons. Forked of https://github.com/pantomax/hassio-addons
 
 ## [Broadlink S1C]
 

@@ -1,6 +1,6 @@
  
 {
-    "name": "Pantomax addons repository",
-    "url": "https://github.com/pantomax/haxio",
-    "maintainer": "Pantomax <pantomaxATgmailDOTcom>"
+    "name": "Pantomax addons repository (DanielXYZ2000 fork)",
+    "url": "https://github.com/DanielXYZ2000/hassio-addons-1",
+    "maintainer": "Daniel <>"
 }
